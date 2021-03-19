@@ -1,0 +1,25 @@
+{
+  "name": "map-log",
+  "version": "1.0.0",
+  "description": "Collaborative map",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabrizzio-gz/map-log.git"
+  },
+  "keywords": [
+    "map",
+    "collaborative"
+  ],
+  "author": "Fabrizzio G.",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fabrizzio-gz/map-log/issues"
+  },
+  "homepage": "https://github.com/fabrizzio-gz/map-log#readme"
+}
