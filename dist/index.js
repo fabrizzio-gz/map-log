@@ -6,9 +6,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const express_1 = __importDefault(require("express"));
 const app = express_1.default();
 const port = 3000;
-app.get("/", (req, res) => {
-    res.send("Hello world!");
-});
+app.use(express_1.default.static("public"));
 app.listen(port, () => {
     console.log(`server started at http://localhost:${port}`);
 });
