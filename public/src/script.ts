@@ -6,3 +6,4 @@ const attribution =
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution,
 }).addTo(mymap);
+/* nothing */
